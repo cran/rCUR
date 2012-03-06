@@ -1,0 +1,17 @@
+b69d58aa53d2dc735f145bcd51e07393 *DESCRIPTION
+618b8b12a70a47cf3f19cdeef9a1b3b2 *NAMESPACE
+f2d2b82dd462fb388b71599afe4cb9fe *R/rCUR.R
+9f64863a64f96ca00984a38447e87b44 *data/STTa.rda
+ac447ddd00b4ab3442700aa0e0375229 *data/STTm.rda
+5c069ce5a5beedffb1f0d981c21e1422 *man/CUR.Rd
+0ec47485e2638794093177e120d037de *man/CURobj-class.Rd
+dfe7f00609eeac2eaf94b5503b2ff844 *man/STTa.Rd
+851338e007c5d9fe4f1635f54e2a4d0c *man/STTm.Rd
+5b5b048dba1cc302ab18bfb012a03b6d *man/getC.rd
+af2a6760028c6fa03c730dcaa7ab923b *man/getError.rd
+3c9ae019a3e00197cc473f5be4b6625d *man/getR.rd
+351c62d93f8ef662450db9cb97df335e *man/getU.rd
+7014d136bc48c9f744b596102ddf2727 *man/leverage.Rd
+b6e321d17eb52f2f2b65b508d52bd69f *man/plotLeverage.Rd
+44a914d90543d6022cc762856ccd1007 *man/rCUR-package.Rd
+a21cf7f1d63de0175dd64a668e7f5c99 *man/topLeverage.Rd
