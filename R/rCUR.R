@@ -41,6 +41,7 @@ CUR <- function(A, c=dim(A)[2], r=dim(A)[1], k=NULL, sv=NULL,
     if(is.null(sv)) sv=svd(A)
     cs=cumsum(sv$d)
     k=length(cs[cs<cs[length(cs)]*0.8])
+    if (k == 0) k <- length(cs)
   }
   if(is.null(sv)) sv=svd(A,k,k)
 
